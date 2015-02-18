@@ -1,11 +1,11 @@
 ---
 title: Package Pike 8.0 for all Linux distributions
-layout: index
+layout: project
 redirect_from: posts/pick-packaging.html
 permalink: projects/pike-packaging
 desc: Linux Packaging
 status: open
-mentors: Martin Bähr
+mentors: <a href="http://fossasia.github.io/#embee"> Martin Bähr </a>
 skill-level: low
 skills: familiarity with Linux packaging and compiling
 ---
@@ -23,10 +23,3 @@ It is probably best to use the openSUSE build service, however care needs to be
 taken that the resulting packages satisfy the various distributions
 requirements for acceptance.
 
-* * *
-
-Skill Level: **{{ page.skill-level }}**
-
-Useful skills: **{{ page.skills }}**
-
-Mentors: **{{ page.mentors }}**

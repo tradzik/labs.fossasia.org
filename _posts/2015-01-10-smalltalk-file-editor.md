@@ -1,11 +1,11 @@
 ---
 title: Create a file editor and asset manager solution with smalltalk
-layout: index
+layout: project
 redirect_from: posts/smalltalk-file-editor.html
 permalink: projects/smalltalk-file-editor
 desc: Smalltalk Developer Tools Development
 status: open
-mentors: Martin Bähr
+mentors: <a href="http://fossasia.github.io/#embee"> Martin Bähr </a>
 skill-level: medium
 skills: user interface design, smalltalk
 ---
@@ -27,10 +27,3 @@ working on the application.
 
 Resources: http://pharo.org/
 
-* * *
-
-Skill Level: **{{ page.skill-level }}**
-
-Useful skills: **{{ page.skills }}**
-
-Mentors: **{{ page.mentors }}**

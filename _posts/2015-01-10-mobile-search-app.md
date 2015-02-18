@@ -1,11 +1,11 @@
 ---
 title: Create a mobile application for offline text search
-layout: index
+layout: project
 permalink: projects/mobile-search-app
 redirect_from: posts/mobile-search-app.html
 desc: Mobile Application Development
 status: dev
-mentors: Martin Bähr
+mentors: <a href="http://fossasia.github.io/#embee"> Martin Bähr </a>
 skill-level: medium
 skills: user interface design, javascript, mobile development
 ---
@@ -36,10 +36,3 @@ interface
 
 The application should be portable to any mobile device
 
-* * *
-
-Skill Level: **{{ page.skill-level }}**
-
-Usefull skills: **{{ page.skills }}**
-
-Mentors: **{{ page.mentors }}**

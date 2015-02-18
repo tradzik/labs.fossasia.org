@@ -1,11 +1,11 @@
 ---
 title: create a weblog frontend for the sTeam collaboration platform
-layout: index
+layout: project
 redirect_from: posts/sTeam-weblog.html
 permalink: projects/sTeam-weblog
 desc: Frontend Webapplication Design and Development
 status: open
-mentors: Martin Bähr
+mentors: <a href="http://fossasia.github.io/#embee"> Martin Bähr </a>
 skill-level: medium
 skills: javascript, angular.js, user interface design, RESTful APIs.
 ---
@@ -19,10 +19,3 @@ In this project you will create a weblog frontend using the RESTful api. Using t
 
 License: this application should be licensed as "GPLv2 or later" or any compatible license.
 
-* * *
-
-Skill level: **{{ page.skill-level }}**
-
-Useful skills: **{{ page.skills }}**
-
-Mentors: **{{ page.mentors }}**

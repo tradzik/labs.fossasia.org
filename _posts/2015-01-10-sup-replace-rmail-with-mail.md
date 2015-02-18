@@ -1,11 +1,11 @@
 ---
 title: Replace the rmail library in the sup email client with mail
-layout: index
+layout: project
 redirect_from: posts/sup-replace-rmail-with-mail.html
 permalink: projects/sup-replace-rmail-with-mail
 desc: Ruby Application Development
 status: open
-mentors: Martin Bähr, sup developers
+mentors: <a href="http://fossasia.github.io/#embee"> Martin Bähr</a>, sup developers
 skill-level: medium
 skills: ruby
 ---
@@ -27,11 +27,3 @@ the point that sup developers can base their official releases on your work.
 
 Project: http://supmua.org/
 Mailing list: supmua@googlegroups.com
-
-* * *
-
-Skill level: **{{ page.skill-level }}**
-
-Useful skills: **{{ page.skills }}**
-
-Mentors: **{{ page.mentors }}**

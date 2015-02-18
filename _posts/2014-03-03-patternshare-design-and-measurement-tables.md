@@ -1,11 +1,11 @@
 ---
 title: Add Design items and Measurement Tables for Patternshare
-layout: index
+layout: project
 redirect_from: posts/patternshare-design-and-measurement-tables.html
 permalink: projects/patternshare-design-and-measurement-tables
 desc: Open Design Projects, Garments, Knitting
 status: open
-mentors: Hong Phuc Dang to be announced
+mentors: <a href="http://fossasia.github.io/#hong_phuc"> Hong Phuc Dang</a> to be announced
 skill-level: medium
 skills: Implementation of Mathematical Algorithms, Javascript, Fabric,js, Rafael.js, HTML, vector graphics
 ---
@@ -22,10 +22,3 @@ Project: https://github.com/sconklin/tmtp-patternshare
 
 Website: http://www.taumeta.org
 
-* * *
-
-Skill Level: **{{ page.skill-level }}**
-
-Usefull skills: **{{ page.skills }}**
-
-Mentors: **{{ page.mentors }}**
